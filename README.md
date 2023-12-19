@@ -1,2 +1,2 @@
-# TripJoy1
-This is my SIH Project
+# TripJoy
+This Is my SIH Project
